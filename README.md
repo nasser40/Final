@@ -46,12 +46,15 @@ Third: Right click on any page and open it with your web browser.
 
 Forth: Change the URL From
 
+```
 file:///C:/xampp/htdocs/(your page name).php
+```
 
 TO 
 
+```
 localhost/(you page name).php
-
+```
 
 
 # Architecture Discussion
@@ -60,4 +63,6 @@ localhost/(you page name).php
  
  # Plan of actions
  
+ This is the plan of action, which was made by using Google doc.
+ ![alt text](https://github.com/nasser40/T1/blob/master/aTimeline.png)
  
