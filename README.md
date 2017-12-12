@@ -57,3 +57,7 @@ localhost/(you page name).php
 # Architecture Discussion
 
  We use (PHP) and (MYSQL) for the backend side, (HTML) with (CSS) for the frontend side, and (Apache) for the server work. The server (Apache) recieve the sending file from the browser, then make a process to distinguish the PHP file from the HTML file. After extrcting the pure PHP file, it will connect to the database (MySql) to retrieve the information. After getting the the wanted data, Apache (the server) will combine the separated files again and send them to the browser. The obtained data will be showen to the user through the web browser.
+ 
+ # Plan of actions
+ 
+ 
