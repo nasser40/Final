@@ -26,9 +26,11 @@ It can be clearly seen that PHP is the best choice for this final project. PHP i
 
 -XAMPP.
 
+NOTEPAD++.
+
 ## Setting Up
 
-First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html).
+First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html) AND NOTEPAD++ from here: [NOTEPAD++](https://notepad-plus-plus.org/)
 
 Second: Clone this repository, and move the PHP pages to the following location in your computer:
 
