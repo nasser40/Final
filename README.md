@@ -28,4 +28,6 @@ It can be clearly seen that PHP is the best choice for this final project. PHP i
 
 ## Setting Up
 
-First: Download XAMPP from here :[Ref#1](https://www.apachefriends.org/index.html)
+First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html)
+
+##
