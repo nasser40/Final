@@ -1,8 +1,10 @@
 # Welcome To The Final Demo 
 
-This page is about the Final project for course CSC583. We start with the evalustion
+This page is about the Final project for course CSC583.
 
-## Evaluation
+# Non-functional Requirements
+
+### Evaluation
 
 Technology | MEAN | PHP | VUE 
 --- | --- | --- | --- | 
@@ -20,7 +22,9 @@ Average | 4.1 | 4.5 | 3.7
 It can be clearly seen that PHP is the best choice for this final project. PHP is much easier and more convienient to delever a product in less than 5 days. I have more experience with it than all of other web-development tools. It would be more fun to do the project with MEAN or VUE, but they are more risky duerin the installation and developing phases.
  
 
-## Needed tools 
+# Installation instructions
+
+### Tools 
 
 -Webbrowser supporting php7, HTML5.
 
@@ -28,9 +32,9 @@ It can be clearly seen that PHP is the best choice for this final project. PHP i
 
 NOTEPAD++.
 
-## Setting Up
+### Setting Up
 
-First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html) AND NOTEPAD++ from here: [NOTEPAD++](https://notepad-plus-plus.org/)
+First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html) ,and NOTEPAD++ from here: [NOTEPAD++](https://notepad-plus-plus.org/)
 
 Second: Clone this repository, and move the PHP pages to the following location in your computer:
 
@@ -50,7 +54,6 @@ localhost/(you page name).php
 
 
 
+# Architecture Discussion
 
-
-
-##
+ We use (PHP) and (MYSQL) for the backend side, (HTML) with (CSS) for the frontend side, and (Apache) for the server work. The server (Apache) recieve the sending file from the browser, then make a process to distinguish the PHP file from the HTML file. After extrcting the pure PHP file, it will connect to the database (MySql) to retrieve the information. After getting the the wanted data, Apache (the server) will combine the separated files again and send them to the browser. The obtained data will be showen to the user through the web browser.
