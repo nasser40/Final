@@ -26,25 +26,29 @@ It can be clearly seen that PHP is the best choice for this final project. PHP i
 
 ### Tools 
 
--Webbrowser supporting php7, HTML5.
+1. Webbrowser supporting php7, HTML5.
 
--XAMPP.
+2. XAMPP.
 
-NOTEPAD++.
+3. NOTEPAD++.
 
 ### Setting Up
 
-First: Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html) ,and NOTEPAD++ from here: [NOTEPAD++](https://notepad-plus-plus.org/)
+Please follow these steps for
 
-Second: Clone this repository, and move the PHP pages to the following location in your computer:
+1. Download XAMPP from here :[XAMPP](https://www.apachefriends.org/index.html) ,and NOTEPAD++ from here: [NOTEPAD++](https://notepad-plus-plus.org/)
 
+2. Clone this repository, and move the PHP pages to the following location in your computer:
+
+```
 C:\xampp\htdocs 
+```
 
 This file location includes all the developed web pages.
 
-Third: Right click on any page and open it with your web browser. 
+3. Right click on any page and open it with your web browser. 
 
-Forth: Change the URL From
+4. Change the URL From
 
 ```
 file:///C:/xampp/htdocs/(your page name).php
